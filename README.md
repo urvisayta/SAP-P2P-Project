@@ -8,8 +8,6 @@ This project explains the end-to-end Procure-to-Pay (P2P) process in SAP Materia
 
 The project demonstrates how procurement activities are integrated with inventory management and financial accounting in SAP, ensuring efficiency, transparency, and accuracy.
 
-Note: This project is a conceptual implementation of SAP MM. Screenshots and system execution are illustrative due to limited access to a live SAP system.
-
 ---
 
 ## Problem Statement  
